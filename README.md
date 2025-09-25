@@ -83,24 +83,30 @@ print(y_prednew)
 ```
 # Output:
 DATASET:
+
 <img width="913" height="334" alt="image" src="https://github.com/user-attachments/assets/3a6ac1a7-0f66-4364-93c7-bdcbde920f27" />
 
 Labelling data:
+
 <img width="405" height="414" alt="image" src="https://github.com/user-attachments/assets/4aa9102e-be9b-46e6-b67c-1d352402dddb" />
 
 Lablling the column:
 <img width="922" height="388" alt="image" src="https://github.com/user-attachments/assets/505fa1b9-70df-467c-9113-154a4b667586" />
 
 DependentVariables:
+
 <img width="770" height="248" alt="image" src="https://github.com/user-attachments/assets/187b4ff2-af2b-4f35-bcb3-8730df153edb" />
 
 Accuracy:
+
 <img width="394" height="52" alt="image" src="https://github.com/user-attachments/assets/10b74116-bb62-4409-a110-a0cc145dc968" />
 
 Y:
+
 <img width="922" height="179" alt="image" src="https://github.com/user-attachments/assets/741f72f7-c1c1-45ff-95bf-e52888eafab4" />
 
 New Predicted data:
+
 <img width="767" height="354" alt="image" src="https://github.com/user-attachments/assets/71ff9d96-03a9-4022-82eb-1bdf61a28757" />
 
 # Result:
